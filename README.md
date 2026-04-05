@@ -1,16 +1,59 @@
-## Hi there 👋
+# Jose Luis Lopez Bohórquez 👋
 
-<!--
-**Lopezj12/Lopezj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FullStack Developer** especializado en Laravel/PHP con experiencia full stack.
+Construyo aplicaciones web robustas, automatizo flujos con IA y despliego en infraestructura cloud.
 
-Here are some ideas to get you started:
+📍 Bogotá, Colombia &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/joseluis-lopez-dev) &nbsp;·&nbsp; ✉️ joseluislb12@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack tecnológico
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Bases de datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Automatización IA**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
+
+---
+
+## 💼 Experiencia destacada
+
+### 🔐 Ecosistema SSO Interno — Investta
+Aplicación de autenticación centralizada que unifica el acceso a múltiples plataformas
+internas (Admin, CMS, CRM) desde un solo punto de autenticación.
+`Laravel` `PHP 8+` `MySQL` `Docker` `Nginx`
+
+### 🤖 Agente de Voz IA — Automatización de Outreach
+Flujo automatizado con n8n + Dapta + Google Sheets para disparo de llamadas salientes
+con agente de voz IA a prospectos de inversión.
+`n8n` `Make` `Dapta` `Webhooks` `REST APIs`
+
+### 📊 CRM & CMS Corporativo — Investta
+Plataformas internas de gestión con módulos de usuarios, roles, reportes dinámicos
+e integraciones SOAP/REST con sistemas financieros.
+`Laravel 11` `Livewire` `Tailwind CSS` `GitHub Actions`
+
+---
+
+## 📈 GitHub Stats
+
+![José Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lopezj12&show_icons=true&theme=default&hide_border=true)
