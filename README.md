@@ -17,7 +17,10 @@ Construyo aplicaciones web robustas, automatizo flujos con IA y despliego en inf
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -26,6 +29,7 @@ Construyo aplicaciones web robustas, automatizo flujos con IA y despliego en inf
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Bases de datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -40,7 +44,7 @@ Construyo aplicaciones web robustas, automatizo flujos con IA y despliego en inf
 ### 🔐 Ecosistema SSO Interno — Investta
 Aplicación de autenticación centralizada que unifica el acceso a múltiples plataformas
 internas (Admin, CMS, CRM) desde un solo punto de autenticación.
-`Laravel` `PHP 8+` `MySQL` `Docker` `Nginx`
+`Laravel` `PHP ` `PostgreSQL` `Docker` `Nginx`
 
 ### 🤖 Agente de Voz IA — Automatización de Outreach
 Flujo automatizado con n8n + Dapta + Google Sheets para disparo de llamadas salientes
@@ -50,7 +54,7 @@ con agente de voz IA a prospectos de inversión.
 ### 📊 CRM & CMS Corporativo — Investta
 Plataformas internas de gestión con módulos de usuarios, roles, reportes dinámicos
 e integraciones SOAP/REST con sistemas financieros.
-`Laravel 11` `Livewire` `Tailwind CSS` `GitHub Actions`
+`Laravel` `PostgreSQL` `Bootstrap` `GitHub Actions`
 
 ---
 
